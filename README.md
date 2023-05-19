@@ -18,7 +18,6 @@ Estou cursando desenvolvimento de sistemas
 <div style="display: inline_block">
  <h2> Aprendendo / Learning </h2>
  <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
 <div style="display: inline_block">
