@@ -1,6 +1,6 @@
 ## Olá amigo, eu sou o Pedro
 Estou cursando desenvolvimento de sistemas
-<img align="right" src= "">
+<img align="right" width="100em" height="100em" src= "link_minish_cap-gif.gif">
 <br>
 <div>
   
