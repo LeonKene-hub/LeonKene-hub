@@ -5,6 +5,8 @@ Eu sou o Pedro, prazer! Estou cursando desenvolvimento de sistemas do SENAI. <br
 Estou estudando com o objetivo de atuar como desenvolvedor Full-Stack,
 mas não pretendo me prender a uma área unica do mundo da programação e da tecnologia, 
 também pretendo estudar e ser um desenvolvedor de jogos. <br>
+<br>
+Meus hobbies são: jogar 🎮 video-games e ler 📖 livros de mistério 
 
 <br>
 <div>
