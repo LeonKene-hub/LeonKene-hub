@@ -1,9 +1,13 @@
-## Olá amigo, eu sou o Pedro
-Estou cursando desenvolvimento de sistemas
-<img align="right" width="100em" height="100em" src= "link_minish_cap-gif.gif">
+## Olá, seja bem vindo(a) ao meu perfil.
+<img align="right" width="160px" height="180px" src= "link_minish_cap-gif.gif">
+Eu sou o Pedro, prazer! Estou cursando desenvolvimento de sistemas do SENAI. <br>
+<br>
+Estou estudando com o objetivo de atuar como desenvolvedor Full-Stack,
+mas não pretendo me prender a uma área unica do mundo da programação e da tecnologia, 
+também pretendo estudar e ser um desenvolvedor de jogos. <br>
+
 <br>
 <div>
-  
 <h3 align= "left">🏆 Status: </h3>
 <img height="180em" src="https://git-stats-aq81.vercel.app/api?username=LeonKene-hub&show_icons=true&theme=transparent&icon_color=C2B200&title_color=F5E000&text_color=00F5EE&border_color=00C2BB">
 <img height="180em" src="https://git-stats-aq81.vercel.app/api/top-langs/?username=LeonKene-hub&layout=compact&theme=transparent&icon_color=C2B200&title_color=F5E000&text_color=00F5EE&border_color=00C2BB">
