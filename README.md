@@ -71,7 +71,7 @@ Fora do código, gosto de relaxar lendo livros de mistério (sou fã das histór
 
 Deixe um comentario sobre o meu perfil. Pode comentar o que quiser. É só clicar no GIF abaixo:
 <p align="left">
-  <a href="[https://gist.github.com/LuizHen527/455dc3337fa0c0646373bc10cac0a705](https://gist.github.com/LeonKene-hub/595fc68f31b9f2e7ccc5b976245c17a2)">
+  <a href="https://gist.github.com/LeonKene-hub/595fc68f31b9f2e7ccc5b976245c17a2">
     <img src="ENTRACE.gif" height="200px" alt="Clique aqui para escrever no meu Guestbook!">
   </a>
 </p>
