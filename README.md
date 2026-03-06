@@ -45,7 +45,8 @@ Fora do código, gosto de relaxar lendo livros de mistério (sou fã das histór
 
 <div style="display: inline_block">
  <h2>🎓 Formação acadêmica e certificados</h2>
-💻 Curso técnico desenvolvimento de sistemas - SENAI (conclusão em dez/2024) <br>
+💻 Curso técnico desenvolvimento de sistemas - SENAI (2024) <br>
+💻 Analise e Desenvolvimento de sistemas - Cruzeiro do Sul Virtual (até 20247) <br>
 📃 SC900 - Microsoft (adquirido em 2023)
 </div>
 
